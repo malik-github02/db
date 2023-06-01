@@ -1,0 +1,10 @@
+{
+       "blogs": [
+              {
+                     "id": 1,
+                     "name": "malik",
+                     "author": "malik",
+                     "date": "1/1/2002"
+              }
+       ]
+}
